@@ -185,8 +185,7 @@ Expected Outcome:
     # print(f"your digit are {dig}\nyour character are {char}\nyour special
     # character are {spchr}")
 
-    """While Loop Questions"""
-    """Separate each digit of a number and print it on the new line"""
+    """While Loop Questions:Separate each digit of a number and print it on the new line"""
 
     # a = int(input("Tell your numnber: "))
 
@@ -217,7 +216,7 @@ Expected Outcome:
     # else:
     #  print("number is not pallindrome.")
 
-# """Create a random number guessing game with python"""
+    """Create a random number guessing game with python"""
 
 
 # import random

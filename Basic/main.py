@@ -45,5 +45,5 @@ And Operators are symbols the perform operation on variable value"""
 # print(25 != 25 or 45 > 67 or 45 == 67 or 55 > 45)
 
 """For NOT Logical Operator"""
-print(not 12 == 12)
+# print(not 12 == 12)
 
