@@ -47,3 +47,7 @@ And Operators are symbols the perform operation on variable value"""
 """For NOT Logical Operator"""
 # print(not 12 == 12)
 
+
+
+
+
